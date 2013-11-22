@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="677d8c8f-95e0-4a68-a5f2-83cbe02c3230" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../app/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../app/pom.xml" afterPath="$PROJECT_DIR$/../app/pom.xml" />
     </list>
     <ignored path="taskkilla.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,10 +70,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../app/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="21" selection-start="3384" selection-end="3384" vertical-scroll-proportion="0.0">
+            <state line="87" column="34" selection-start="3657" selection-end="3657" vertical-scroll-proportion="0.47655067">
               <folding />
             </state>
           </provider>
@@ -88,7 +88,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../app/src/main/webapp/WEB-INF/web.xml">
           <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
             <state />
@@ -100,7 +100,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="25" selection-start="547" selection-end="547" vertical-scroll-proportion="0.27820712">
+            <state line="21" column="50" selection-start="816" selection-end="816" vertical-scroll-proportion="-11.666667">
               <folding />
             </state>
           </provider>
@@ -133,10 +133,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../app/pom.xml" />
         <option value="$PROJECT_DIR$/../app/src/main/java/com/taskkilla/model/Projeto.java" />
         <option value="$PROJECT_DIR$/../app/src/main/java/com/taskkilla/services/ProjetoEndpoint.java" />
         <option value="$PROJECT_DIR$/../app/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../app/pom.xml" />
       </list>
     </option>
   </component>
@@ -605,13 +605,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../app/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="21" selection-start="3384" selection-end="3384" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../app/src/main/java/com/taskkilla/model/Projeto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="96" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0">
@@ -637,7 +630,14 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="25" selection-start="547" selection-end="547" vertical-scroll-proportion="0.27820712">
+        <state line="21" column="50" selection-start="816" selection-end="816" vertical-scroll-proportion="-11.666667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../app/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="34" selection-start="3657" selection-end="3657" vertical-scroll-proportion="0.47655067">
           <folding />
         </state>
       </provider>
