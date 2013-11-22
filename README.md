@@ -1,4 +1,0 @@
-taskkilla
-=========
-
-GoogleBus Brasil - Taskkilla
