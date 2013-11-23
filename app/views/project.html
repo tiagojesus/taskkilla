@@ -1,12 +1,14 @@
-<div class="container">
+<div class="container projeto">
   <div class="row">
     <div class="span12">
       <div class="container">
         <h1 class="pull-left">
-          {{project.name}}
-          <a href="" ng-click="isCollapsed = !isCollapsed" ng-class="{true:'expand', false:'contract'}[isCollapsed]">v</a>
+          Projeto: {{project.name}}
+          <a href="" ng-click="isCollapsed = !isCollapsed" ng-class="{true:'expand', false:'contract'}[isCollapsed]">
+            <i class="icon-chevron-down"></i>
+          </a>
         </h1>
-        <a href="" class="btn pull-right" ng-click="newQuestBox()">Criar Nova Quest</a>
+        <a href="" class="pull-right nova-quest" ng-click="newQuestBox()">Criar Nova Quest</a>
       </div>
       <div collapse="isCollapsed">
         <div class="row">
